@@ -1,6 +1,8 @@
 import React from 'react'
-import video from "../assets/IntroVideo.mp4"
+
 import "../styles/intro.scss"
+import video from "../assets/introvideo.mp4";
+
 const IntroVideo = () => {
   return (
     <div className="intro">
